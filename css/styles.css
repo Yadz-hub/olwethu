@@ -53,8 +53,6 @@ h1{
 .coloured-section{
     background-color: #010101;
     color: #fff;
-    position: relative;
-    z-index: -1;
 }
 
 .stars img{
@@ -119,6 +117,15 @@ h1{
 .white-section{
     background-color: #fff;
 
+}
+#title{
+    position: relative;
+    z-index: -1;
+}
+
+#cta{
+    position: relative;
+    z-index: -1;
 }
 
 #title .container-fluid{
