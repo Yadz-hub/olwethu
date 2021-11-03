@@ -50,7 +50,7 @@ h1{
 }
 
 .nav-title{
-    color: #ef8172;
+    color: #EE0EA7;
 }
 
 p{
@@ -98,17 +98,17 @@ p{
 }
 
 .icon{
-    color: #ef8172;
+    color: #DD3444;
     margin-bottom: 1rem;
 
 }
 
 .icon:hover{
-    color: #ff4c68;
+    color: #EE0EA7;
 }
 
 #testimonials{
-    background-color: #ef8172;
+    background-color: black;
 }
 
 .testimonial-text{
@@ -127,7 +127,7 @@ p{
 }
 
 #press{
-    background-color: #ef8172;
+    background-color: black;
     padding-bottom: 3%;
 }
 
@@ -158,6 +158,15 @@ p{
 
 .footer-icon{
     margin: 20px 10px;
+    
+}
+
+.footer-icon:hover{
+    color: red;
+}
+
+.footer-heading{
+    color: #EE0EA7;
 }
 
 @media (max-width: 1028px){
